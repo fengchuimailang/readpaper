@@ -104,7 +104,7 @@
 ### 实现细节
 - VGG-based 区别在于1x2池化，有更宽的宽度使得特征序列变长
 - CNN和RNN在一起很难测，batch-normalization对于如此深度有用，加速作用
-![img](pic_resource\table1.PNG)
+![table1](pic_resource/table1.PNG)
 - 环境
     + Torch7/CUDA
     + transciption层 C++实现 
@@ -118,8 +118,8 @@
     + IC03上 BK-tree delta=3 0.53s/张
 
 ### 结果比较
-![img](pic_resource\table2.PNG)
-![img](pic_resource\table3.PNG)
+![table2](pic_resource/table2.PNG)
+![table3](pic_resource/table3.PNG)
 
 ### 音符识别
 略
