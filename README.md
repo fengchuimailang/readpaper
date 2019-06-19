@@ -11,3 +11,6 @@
 
 ## 物体检测
 * [Faster R-CNN](https://arxiv.org/abs/1506.01497)
+* [YOLOv1](https://arxiv.org/abs/1506.02640)
+* [YOLOv2](https://arxiv.org/abs/1612.08242)
+* [YOLOv3](https://arxiv.org/abs/1804.02767)
